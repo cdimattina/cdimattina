@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cdimattina
-- 👀 I’m interested in vision science, machine learning, computer vision and statistics
+- 👀 I’m interested in vision science, machine learning, and statistics
 - 🌱 I’m currently learning TensorFlow/Keras
 - 📫 cdimattina@fgcu.edu
 
