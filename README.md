@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cdimattina
-- 👀 I’m interested in computational neuroscience, vision science, machine learning, and statistics
+- 👀 I’m interested in computational neuroscience, vision science, machine learning, psychology, and statistics
 - 🌱 I’m currently learning TensorFlow/Keras and MPI for Python
 - 📫 cdimattina@fgcu.edu
 
