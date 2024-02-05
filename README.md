@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cdimattina
-- 👀 I’m interested in vision science, computational neuroscience, machine learning, psychology, consumer decisions, and statistics
+- 👀 I’m interested in vision science, machine learning, psychology, decision science, consumer preferences, and statistics
 - 🌱 I’m currently learning TensorFlow/Keras and Pytorch
 - 📫 cdimattina@fgcu.edu
 
