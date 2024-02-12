@@ -1,5 +1,5 @@
 All code in this repository is free to anyone for non-commercial purposes. 
-It is licensed under the creative commons license BY-NC.
+It is released under the creative commons license BY-NC.
 
 It is written primarily in MATLAB and Python in the course of conducting 
 scientific research in computational neuroscience, perception science, 
