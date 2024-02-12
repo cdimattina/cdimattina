@@ -1,9 +1,9 @@
 All code in this repository is free to anyone for non-commercial purposes. 
 It is licensed under the creative commons license BY-NC.
 
-It is written primarily in MATLAB and Python, and was written in the course
-of conducting scientific research in computational neuroscience, perception
-science, and psychology. 
+It is written primarily in MATLAB and Python in the course of conducting 
+scientific research in computational neuroscience, perception science, 
+and psychology. 
 
 Code comes "as is", and you use at your own risk.To my knowledge, there are 
 no bugs in the code that would in any way affect the conclusions of the 
