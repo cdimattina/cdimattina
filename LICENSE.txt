@@ -1,0 +1,11 @@
+All code in this repository is free to anyone for non-commercial purposes. 
+It is written primarily in MATLAB and Python, and was written in the course
+of conducting scientific research in computational neuroscience, perception
+science, and psychology. 
+
+Code comes "as is", and you use at your own risk.To my knowledge, there are 
+no bugs in the code that would in any way affect the conclusions of the 
+scientific articles I have published. I do point out a couple trivial bugs
+(and provide fixes) in the original code where they occur. 
+
+I am happy to answer questions, and can be reached at: cdimattina@fgcu.edu
