@@ -7,7 +7,6 @@ and psychology.
 
 Code comes "as is", and you use at your own risk. To my knowledge, there are 
 no bugs in the code that would in any way affect the conclusions of the 
-scientific articles I have published. Minor bugs or places where the code can
-be improved will be noted in the comments. 
+scientific articles I have published. 
 
 I am happy to answer questions, and can be reached at: cdimattina@fgcu.edu
