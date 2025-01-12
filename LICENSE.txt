@@ -6,7 +6,7 @@ scientific research in computational neuroscience, perception science,
 and psychology. 
 
 Code comes "as is", and you use at your own risk. To my knowledge, there are 
-no major bugs in the code that would affect any of the scientific studies I 
+no bugs in the code that would affect any of the scientific studies I 
 have published. 
 
 I am happy to answer questions, and can be reached at: cdimattina@fgcu.edu
